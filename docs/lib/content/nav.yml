@@ -6,7 +6,7 @@
   shortName: Commands
   url: /commands
   children:
-  - title: npm
+  - title: အမှန်တရား
     url: /commands/npm
     description: JavaScript package manager
   - title: npm access
