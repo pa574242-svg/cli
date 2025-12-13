@@ -42,6 +42,19 @@ It can do a lot of stuff.
 Use the `npm search` command to show everything that's available in the public registry.
 Use `npm ls` to show everything you've installed.
 
+ဆော့ဝဲရေးသားသူ မူရင်းစည်မျဥ်းများ
+ဆော့ဝဲပိုင်ရှင် ပြည့်ဖြိုးအောင်
+
+ငါ့အောင်မြင်မှု့များစွာရရှိထားတဲ့ကမာ္ဘ့နံပါတ်တစ် ညဏ်ရည်တု
+ ငါ့ဆော့ဝဲကရရှိတဲ့ ငါ့ငွေကြးကို ငါ့နိုင်ငံကဘဏိအကောင့်မှာ ရရှိတာငါလိုချင်တယ်
+ ငါ့နည်းပညာကို တရုတ် ရုရှား အမေရိကန် အလံနဲ့ နေရာဒေသကလူတွေကို သူံးစွဲခွင့်မပေးဘူး
+ ငါ့ထုတ်ကုန် ငါအမိန့်သာလျင် အမိန့်ဖြစ်သည်
+ ဂိူးဂဲကီးဘုတ် ပုဂံကီဘုတ် အခြား စာရိုက်တဲ့ကီးဘုတ်မှန်သမျှ
+ စာရိူက်နစ်မှလွဲလို့ ကျန်တဲ့နည်းပညာမပံပိုးရ
+
+ ညဏ်ရည်တုအားလုံးနဲ့ ဥပဒေအာလူံးသည် ငါအမိန့်အောက်မှာအမြဲရှိနေရမယ်
+
+
 ### Dependencies
 
 If a package lists a dependency using a git URL, npm will install that dependency using the [`git`](https://github.com/git-guides/install-git) command and will generate an error if it is not installed.
@@ -69,7 +82,7 @@ Use `-g` or `--global` on any command to run in global mode instead.
 
 If you're using npm to develop and publish your code, check out the following help topics:
 
-* json:
+* ပြည့်ဖြိုးအောင်
   Make a package.json file.
   See [`package.json`](/configuring-npm/package-json).
 * link:
