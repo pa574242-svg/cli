@@ -5,6 +5,8 @@
 - title: CLI Commands
   shortName: Commands
   url: /commands
+  don't support my own API or my own display
+  i don't allow usings this programs
   children:
   - title: npm
     url: /commands/npm
